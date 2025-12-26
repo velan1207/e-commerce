@@ -1,0 +1,208 @@
+[
+    {
+        "name": "OPPO F21s Pro 5G",
+        "price": 245.67,
+        "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            },
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": [
+            { "user": "64b7f9f4a1c2b3d4e5f60101", "rating": 5, "comment": "Excellent phone — great battery life and camera." },
+            { "user": "64b7f9f4a1c2b3d4e5f60102", "rating": 4, "comment": "Smooth performance, value for money." },
+            { "user": "64b7f9f4a1c2b3d4e5f60111", "rating": 5, "comment": "Amazing display and responsive UI." },
+            { "user": "64b7f9f4a1c2b3d4e5f60112", "rating": 4, "comment": "Camera is good in daylight." },
+            { "user": "64b7f9f4a1c2b3d4e5f60113", "rating": 3, "comment": "Battery drains fast with heavy apps." },
+            { "user": "64b7f9f4a1c2b3d4e5f60114", "rating": 5, "comment": "Sleek design and lightweight." },
+            { "user": "64b7f9f4a1c2b3d4e5f60115", "rating": 4, "comment": "Good value for the features offered." },
+            { "user": "64b7f9f4a1c2b3d4e5f60116", "rating": 5, "comment": "Fast charging is a plus." },
+            { "user": "64b7f9f4a1c2b3d4e5f60117", "rating": 4, "comment": "Excellent for daily use." },
+            { "user": "64b7f9f4a1c2b3d4e5f60118", "rating": 5, "comment": "Great value and reliable." },
+            { "user": "64b7f9f4a1c2b3d4e5f60119", "rating": 4, "comment": "Nice display and smooth performance." },
+            { "user": "64b7f9f4a1c2b3d4e5f60120", "rating": 3, "comment": "Occasional lag with multiple apps." },
+            { "user": "64b7f9f4a1c2b3d4e5f60121", "rating": 5, "comment": "Very satisfied with the purchase." },
+            { "user": "64b7f9f4a1c2b3d4e5f60122", "rating": 4, "comment": "Good overall performance." },
+            { "user": "64b7f9f4a1c2b3d4e5f60123", "rating": 5, "comment": "Highly recommend for camera lovers." }
+        ]
+    },
+    {
+        "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
+        "price": 150.32,
+        "description": "Minix watches are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/2.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": [
+            { "user": "64b7f9f4a1c2b3d4e5f60103", "rating": 4, "comment": "Good watch for calls and fitness tracking." },
+            { "user": "64b7f9f4a1c2b3d4e5f60124", "rating": 4, "comment": "Comfortable and responsive." },
+            { "user": "64b7f9f4a1c2b3d4e5f60125", "rating": 3, "comment": "Battery life could be improved." },
+            { "user": "64b7f9f4a1c2b3d4e5f60126", "rating": 5, "comment": "Excellent connectivity and features." },
+            { "user": "64b7f9f4a1c2b3d4e5f60127", "rating": 4, "comment": "Nice interface and easy to use." }
+        ]
+    },
+    {
+        "name": "Dell Inspiron 3511 Laptop",
+        "price": 440.57,
+        "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/3.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": [
+            { "user": "64b7f9f4a1c2b3d4e5f60104", "rating": 2, "comment": "Decent laptop but battery could be better." },
+            { "user": "64b7f9f4a1c2b3d4e5f60105", "rating": 2, "comment": "Gets warm under heavy load." },
+            { "user": "64b7f9f4a1c2b3d4e5f60128", "rating": 3, "comment": "Fair performance for basic tasks." },
+            { "user": "64b7f9f4a1c2b3d4e5f60129", "rating": 4, "comment": "Good value for students." },
+            { "user": "64b7f9f4a1c2b3d4e5f60130", "rating": 3, "comment": "Screen brightness is adequate." },
+            { "user": "64b7f9f4a1c2b3d4e5f60131", "rating": 2, "comment": "Could use more RAM for multitasking." },
+            { "user": "64b7f9f4a1c2b3d4e5f60132", "rating": 4, "comment": "Build quality feels solid." },
+            { "user": "64b7f9f4a1c2b3d4e5f60133", "rating": 3, "comment": "Average battery life." },
+            { "user": "64b7f9f4a1c2b3d4e5f60134", "rating": 4, "comment": "Keyboard is comfortable." },
+            { "user": "64b7f9f4a1c2b3d4e5f60135", "rating": 3, "comment": "Decent for everyday use." },
+            { "user": "64b7f9f4a1c2b3d4e5f60136", "rating": 2, "comment": "Not suited for gaming." },
+            { "user": "64b7f9f4a1c2b3d4e5f60137", "rating": 4, "comment": "Good entry-level laptop." }
+        ]
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3 Laptop",
+        "price": 250.45,
+        "description": "Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/6.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+                "numOfReviews": 12,
+                "reviews": [
+                    { "user": "64b7f9f4a1c2b3d4e5f60106", "rating": 4, "comment": "Lightweight and good value for everyday tasks." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60138", "rating": 4, "comment": "Runs smooth and quick." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60139", "rating": 5, "comment": "Excellent battery life." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60140", "rating": 3, "comment": "Average speaker quality." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60141", "rating": 4, "comment": "Good for office work." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60142", "rating": 4, "comment": "Solid performance at this price." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60143", "rating": 3, "comment": "Screen could be brighter." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60144", "rating": 4, "comment": "Comfortable keyboard." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60145", "rating": 5, "comment": "Impressive build quality." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60146", "rating": 4, "comment": "Good everyday performance." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60147", "rating": 3, "comment": "Fan noise is noticeable sometimes." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60148", "rating": 4, "comment": "Recommended for students." }
+                ]
+      },
+      {
+        "name": "ASUS VivoBook 15 Laptop",
+        "price": 767.32,
+        "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/7.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+                "numOfReviews": 12,
+                "reviews": [
+                    { "user": "64b7f9f4a1c2b3d4e5f60107", "rating": 5, "comment": "Fantastic display and build quality." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60149", "rating": 5, "comment": "Crisp display and performance." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60150", "rating": 4, "comment": "Very satisfied with features." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60151", "rating": 4, "comment": "Great value for money." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60152", "rating": 5, "comment": "Excellent for multimedia." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60153", "rating": 3, "comment": "A bit heavy for long use." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60154", "rating": 4, "comment": "Good battery and speakers." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60155", "rating": 5, "comment": "Outstanding build and screen." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60156", "rating": 4, "comment": "Perfect for office and streaming." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60157", "rating": 5, "comment": "Exceeded my expectations." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60158", "rating": 4, "comment": "Very responsive and fast." },
+                    { "user": "64b7f9f4a1c2b3d4e5f60159", "rating": 4, "comment": "Solid performer overall." }
+                ]
+    },
+    {
+        "name": "PTron Newly Launched Tangent Sports, 60Hrs Playtime",
+        "price": 15.46,
+        "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 19,
+        "reviews": [
+            { "user": "64b7f9f4a1c2b3d4e5f60108", "rating": 5, "comment": "Amazing battery life — lasts for days." },
+            { "user": "64b7f9f4a1c2b3d4e5f60109", "rating": 4, "comment": "Great sound for the price." },
+            { "user": "64b7f9f4a1c2b3d4e5f60160", "rating": 5, "comment": "Comfortable fit and clear audio." },
+            { "user": "64b7f9f4a1c2b3d4e5f60161", "rating": 5, "comment": "Excellent call quality." },
+            { "user": "64b7f9f4a1c2b3d4e5f60162", "rating": 4, "comment": "Good bass and clarity." },
+            { "user": "64b7f9f4a1c2b3d4e5f60163", "rating": 5, "comment": "Long battery life is amazing." },
+            { "user": "64b7f9f4a1c2b3d4e5f60164", "rating": 4, "comment": "Value for money." },
+            { "user": "64b7f9f4a1c2b3d4e5f60165", "rating": 4, "comment": "Great for workouts." },
+            { "user": "64b7f9f4a1c2b3d4e5f60166", "rating": 5, "comment": "Superb battery and sound." },
+            { "user": "64b7f9f4a1c2b3d4e5f60167", "rating": 4, "comment": "Highly recommend for gym use." },
+            { "user": "64b7f9f4a1c2b3d4e5f60168", "rating": 5, "comment": "Fantastic value and performance." },
+            { "user": "64b7f9f4a1c2b3d4e5f60169", "rating": 4, "comment": "Good noise cancellation." },
+            { "user": "64b7f9f4a1c2b3d4e5f60170", "rating": 5, "comment": "Perfect for travel." },
+            { "user": "64b7f9f4a1c2b3d4e5f60171", "rating": 4, "comment": "Solid build and audio quality." },
+            { "user": "64b7f9f4a1c2b3d4e5f60172", "rating": 5, "comment": "Exceeded expectations." },
+            { "user": "64b7f9f4a1c2b3d4e5f60173", "rating": 4, "comment": "Great pairing and range." },
+            { "user": "64b7f9f4a1c2b3d4e5f60174", "rating": 5, "comment": "Battery lasts forever." },
+            { "user": "64b7f9f4a1c2b3d4e5f60175", "rating": 4, "comment": "Very comfortable to wear." },
+            { "user": "64b7f9f4a1c2b3d4e5f60176", "rating": 5, "comment": "Top-notch performance for workouts." }
+        ]
+    },
+    {
+        "name": "Campus Men's Maxico Running Shoes",
+        "price": 10.12,
+        "description": "The high raised back cover with extra padding.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/5.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": [
+            { "user": "64b7f9f4a1c2b3d4e5f6010a", "rating": 3, "comment": "Comfortable shoes but sizing runs small." },
+            { "user": "64b7f9f4a1c2b3d4e5f60177", "rating": 4, "comment": "Good grip and cushioning." },
+            { "user": "64b7f9f4a1c2b3d4e5f60178", "rating": 3, "comment": "Durable for daily running." },
+            { "user": "64b7f9f4a1c2b3d4e5f60179", "rating": 4, "comment": "Comfortable and lightweight." },
+            { "user": "64b7f9f4a1c2b3d4e5f60180", "rating": 3, "comment": "Color fades slightly after wash." },
+            { "user": "64b7f9f4a1c2b3d4e5f60181", "rating": 4, "comment": "Nice for jogging and workouts." },
+            { "user": "64b7f9f4a1c2b3d4e5f60182", "rating": 3, "comment": "Decent value for the price." },
+            { "user": "64b7f9f4a1c2b3d4e5f60183", "rating": 4, "comment": "Fits well and breathable." },
+            { "user": "64b7f9f4a1c2b3d4e5f60184", "rating": 3, "comment": "Good traction on wet surfaces." }
+        ]
+    }
+]
